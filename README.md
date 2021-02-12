@@ -1,1 +1,2 @@
-# new-libery
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
